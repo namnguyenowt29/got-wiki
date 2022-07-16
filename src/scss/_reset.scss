@@ -16,7 +16,8 @@ html:focus-within {
   scroll-behavior: smooth;
 }
 
-body {
+body,
+#root {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;

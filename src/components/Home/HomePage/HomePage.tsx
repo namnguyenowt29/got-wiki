@@ -1,12 +1,12 @@
 import { FC } from 'react';
 import { Button, Layout } from 'antd';
 
-const Home: FC = () => {
+const HomePage: FC = () => {
   return (
     <Layout>
-      <Button>Home page</Button>
+      <Button>HomePage page</Button>
     </Layout>
   );
 };
 
-export default Home;
+export default HomePage;

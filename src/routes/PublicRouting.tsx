@@ -1,5 +1,5 @@
-import Home from 'components/Home/Home';
-import SignIn from 'components/SignIn/SignIn';
+import Home from 'components/Home/HomePage/HomePage';
+import SignIn from 'components/Auth/SigninPage/SignInPage';
 import { FC } from 'react';
 import { Routes, Route } from 'react-router';
 

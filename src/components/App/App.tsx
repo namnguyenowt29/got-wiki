@@ -1,6 +1,6 @@
 import Header from 'components/Common/Header/Header';
 import { FC } from 'react';
-import PublicRouting from 'routing/PublicRouting';
+import PublicRouting from 'routes/PublicRouting';
 
 const App: FC = () => {
   return (
