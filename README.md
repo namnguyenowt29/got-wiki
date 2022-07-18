@@ -1,29 +1,29 @@
-# Training: A Game of Thrones wiki webapp
+## Training: Game of Thrones wiki webapp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-### `npm start`
+`npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
-### `npm install` or `npm i`
+`npm install` or `npm i`
 
-Install necessary libraries\
+Install necessary libraries
 
-### `npm test`
+`npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+`npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### `npm run eject`
+`npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
